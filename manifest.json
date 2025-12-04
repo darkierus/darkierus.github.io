@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "NeoKid",
+  "short_name": "NeoKid",
+  "start_url": "/?utm_source=web_app_manifest"
+}
